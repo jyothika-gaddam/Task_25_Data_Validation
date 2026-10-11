@@ -1,0 +1,16 @@
+Employee ID,Full Name,Gender,Age,Department,Job Role,Employment Type,Joining Date,Monthly Salary (INR),Email,Phone,Work Location,Status
+EMP-001,Ravi Teja Kommineni,Male,29,Engineering,Software Engineer,Full-time,14-Jun-2021,62000,ravi.kommineni@acmetech.com,9848012345,Hyderabad,Active
+EMP-002,Sravani Chowdary,Female,26,Engineering,QA Engineer,Full-time,01-Aug-2022,48000,sravani.chowdary@acmetech.com,9912345670,Guntur,Active
+EMP-003,Harsha Vardhan Reddy,Male,34,Engineering,Tech Lead,Full-time,19-Mar-2018,145000,harsha.reddy@acmetech.com,9700123456,Bengaluru,Active
+EMP-004,Lakshmi Prasanna,Female,31,HR,HR Manager,Full-time,04-Nov-2019,88000,lakshmi.prasanna@acmetech.com,8099776655,Vijayawada,Active
+EMP-005,Naveen Kumar Pothuri,Male,24,HR,Recruiter,Contract,22-Jan-2024,32000,naveen.pothuri@acmetech.com,9390456789,Remote,Active
+EMP-006,Divya Bharathi,Female,28,Finance,Financial Analyst,Full-time,07-Sep-2020,67000,divya.bharathi@acmetech.com,9959887766,Chennai,On Leave
+EMP-007,Suresh Babu Nallamothu,Male,41,Finance,Finance Manager,Full-time,15-Feb-2016,175000,suresh.babu@acmetech.com,9849332211,Hyderabad,Active
+EMP-008,Anusha Gudivada,Female,25,Sales,Sales Executive,Full-time,10-Apr-2023,38000,anusha.gudivada@acmetech.com,7288114455,Vijayawada,Active
+EMP-009,Karthik Mandava,Male,33,Sales,Account Manager,Full-time,29-Jul-2019,72000,karthik.mandava@acmetech.com,9666554433,Bengaluru,Resigned
+EMP-010,Meghana Sri,Female,22,Marketing,Content Writer,Intern,01-Dec-2025,15000,meghana.sri@acmetech.com,8185907766,Remote,Active
+EMP-011,Pranay Dasari,Male,30,Marketing,SEO Analyst,Full-time,18-Jan-2021,52000,pranay.dasari@acmetech.com,9573221100,Hyderabad,Active
+EMP-012,Swathi Yarlagadda,Female,36,Marketing,Marketing Manager,Full-time,08-May-2017,120000,swathi.y@acmetech.com,9440667788,Guntur,Active
+EMP-013,Mohammed Irfan,Male,27,Operations,Logistics Coordinator,Part-time,03-Oct-2022,28000,irfan.mohammed@acmetech.com,8523990011,Chennai,Active
+EMP-014,Bhargavi Tummala,Female,38,Operations,Operations Manager,Full-time,12-Dec-2016,135000,bhargavi.tummala@acmetech.com,9704118899,Vijayawada,Active
+EMP-015,Tarun Sai Vemuri,Male,23,Engineering,DevOps Engineer,Contract,02-Jun-2025,45000,tarun.vemuri@acmetech.com,6301772299,Remote,Active
